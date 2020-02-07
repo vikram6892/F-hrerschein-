@@ -1,0 +1,326 @@
+---------------------------------------------------------------------------------------------------------
+		14 - Driving Solo Motor Vehicles and trains, Transporting Passengers and goods
+						14.1 - Attaching Trailers
+---------------------------------------------------------------------------------------------------------
+1. You want to tow a single-axle caravan trailer behind your car. What must you check ?
+a)	If the additional real view mirrors must be mounted because of the width of the trailer
+b)	If the permissible trailer load or the permissible coupling oft he car are exceeded
+
+2. You want to couple a trailer to your car. Where you will find details about the maximum permissible vertical loading of your car ?
+a)	In the operating manual
+b)	In the registeration certificate Part 1
+
+3. You want to pull trailer. When do additional rear-view mirrors have to be attached to motor vehicle ?
+a)	If it is not possible to observe all relevant road traffic situations without additional rear view mirrors
+
+4. When does the braking action of a trailer with overrun brakes start ?
+a)	When the trailer runs upto the truck
+
+5. You are holding a driving permit class B. Your car has following specifications :  empty mass 1900 kg, permissible total mass 2400 kg, permissible total laod 1500 kg, Which trailer you are allowed to tow ? 
+a)	1000 kg
+
+6. What must you check on a car with a caravan trailer before setting out on a journey ?
+a)	Whether the view through the rear-view mirrors is adequate
+b)	Whether the lights of the trailer are working
+
+7. A single axle trailer has an actual gross weight of 600 kg. What is minimum possible vertical load ?
+a)	24 kg ( 4%)
+
+8. Which dangerous defects can have occured on a trailer with overrun brakes which has been parked for some time ?
+a)	The brakes may not work because of rust
+b)	Cable connections can be defective
+
+9. What must you bear in mind when loading a single-axis trailer ? The permissible ___________
+a)	total mass
+b)	axle laod
+c)	load on the coupling
+
+10. What is designated as towed load ?
+a)	the actual load being towed
+
+11. You want to tow a brake equipped trailer. Where can you find details or guidelines on the permissible towable mass of your car ?
+a)	In the registeration certificate Part 1 of my car
+
+---------------------------------------------------------------------------------------------------------
+					14.2 Connecting and Seperating
+---------------------------------------------------------------------------------------------------------
+1. (3P) What must you remember when you want to use a trailer with overrun brakes behind your car?
+a)	The breakaway cable is connected to the towing vehicle
+b)	The permissible total mass of the trailer must not exceed the towed load permitted for the car
+
+2. (3P) You want to drive a vehicle with a trailer equipped with overrun braking. What do you have to check before beginning the journey? I check
+a)	That the breakaway cable is attached
+b)	That the connecting device is locked
+c)	That the lighting system is working
+
+3. (4P) You want to couple up a trailer with ball coupling. What is correct?
+a)	The electrics must be connected
+b)	The claw of the coupling must fit securely around the ball. The locking device must engage.
+
+4. (4P) What must you do after coupling up a single-axis trailer with overrun brakes?
+a)	Check that the brakes are working
+b)	Raise the jack wheel, if fitted, to the highest setting
+c)	Attach the brakeaway cable to the coupling of the motor vehicle.
+
+5. (3P) You want to Park your single-axis trailer (overrun brakes, 1000kg permissible total mass) on a slope. What must you do?
+a)	Pull the parking brake
+b)	Place wheel chocks under the wheels
+
+6. (3P) A single axle caravan with overrun brake is parked on a downhill slope. How do you have to secure it to prevent it from rolling away?
+a)	Apply the parking brake
+b)	Put wheel chocks in Front of the wheels
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+						14.3 Driving with trailers
+----------------------------------------------------------------------------------------------------------------------------------------
+1. (2P) What is the maximum number of trailers allowed to be towed by a class B truck?
+		 1 trailer
+
+2. (3P) Between what hours does the Sunday and public holiday driving ban apply? 
+		0 to 22 hrs
+
+3. (3P) You are driving on a road with potholes and your trailer starts „jumping“. What must you do?
+a)	Reduce speed in order to avoid skidding
+
+4. (4P) What factors lengthen your braking distance?
+a)	Driving down slopes
+b)	A wet or slippery roadway
+c)	Towing a trailer not fitted with brakes
+
+5. (4P) You are driving in the wet in a car with trailer on a narrow rural road and are approaching a clearly visible but tight left-hand bend. What should you do?
+a)	I reduce my speed before the bend
+b)	I remain in the centre of the lane and only accelerate again once I am back on the straight
+
+6. (3P) Why should you not press the clutch and switch off the engine at the same time when driving down a long slope?
+a)	Full braking power cannot be reached in vehicles with brake booster system despite great force being applied to the pedal
+b)	The steering of vehicles with servo-assisted steering immediately becomes unusually heavy
+
+7. (4P) You are in your car towing a trailer which has no brakes and you approach a long steep downhill slope. What is correct?
+a)	Make allowance for the pushing effect of the trailer
+b)	Reduce speed, if necessary, engage low gear in time, be ready to brake
+
+8. (3P) What must be remembered with regard to vehicles with canvass covers?
+a)	Unloaded trailers with high canvass cover superstructure are particularly sensitive to side wind
+b)	The canvass covers must not obstruct the driver’s rear view through the outside mirrors
+
+9. (4P) What is the correct response if, when reversing a combustion vehicle the view to the rear is impeded?
+a)	If the line-of-sight is broken to the person directing, the vehicle must be stopped
+
+10. (3P) You are in your car towing a fully loaded trailer which has no brakes. What is correct?
+a)	Braking distance increases
+
+11. (3P) What motor vehicles engaged in the commercial or paid transport of goods, are prohibited from driving on Sundays and public holidays?
+a)	Trucks with a gross vehicle weight rating in excess of 7.5 t
+b)	Trucks towing a trailer
+c)	Cars towing a trailer
+
+12. (3P) What must you remember when parking a trailer without a truck? The trailer 
+a)	May not be parked for more than 2 weeks on public roads
+b)	May be parked for more than 2 weeks on specially designated parking spaces
+
+13. (3P) What is the effect of the cornering charectristics of a combination vehicle (Car towing a caravan) when taking a turn? The caravan
+a)	Can jut out
+b)	Can cut the corner
+
+14. (4P) What changes when a caravan trailer is towed?
+a) Hasty movements of the steering wheel increase the danger of skidding
+b) The distance for overtaking increases considerably
+
+15. (2P) With which vehicles are you not allowed to drive on a road sign-posted like this?
+					PICTURE 
+a) Car with caravan trailer, total length of the combination 11m
+b) Tractor with trailer, total length of the combination 12m
+
+16. (3P) Why should you not apply the clutch when driving on a long, steep downhill slope?
+a) Because this causes unnecessary wear of the brakes
+b) Because the braking action of the engine will have no effect
+
+17. (4P) You are in your car towing a trailer on a road with oncoming traffic and want to turn left. What must you particularly remember when you set off again?
+a) Think about the length of your car and trailer combination
+b) Consider the reduced acceleration capacity
+
+18. (4P) What changes in a car when towing a two-axle trailer?
+a) More space is needed when turning and driving round bends
+b) Acceleration capacity is reduced
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+14.4 Passenger Transport
+1. (4P) A car is equipped with two front air bags. On which seats must safety belts be worn?
+a)	On all seats
+b)	Not on the front seats
+c)	On the front seats only
+2. (4P) What should be borne in mind when using an approved child seat with test mark?
+a)	The child seat must be capable of attachment to the seat of the vehicle for which it is intended
+b)	The child seat must be appropriate for the height and weight of the child
+c)	Nothing apart from the test mark
+3. (2P) A safety belt lock does not close. What do you do?
+a)	Have the lock repaired
+b)	Drive at low speed
+c)	Nothing because the seat is equipped with an airbag
+4. (4P) How can you prevent a child from opening a door while the vehicle is moving? I activate
+a)	The child safety locks on the rear doors
+b)	The central locking system
+5. (2P) You are driving a truck with a trailer and wish to give someone a life as a favour. Where are you allowed to carry such a passenger?
+a)	In the driver’s cab
+b)	On the floor of the truck		c) On the floor of the trailer
+6. (4P) How are you allowed to transport a small child in your car?
+a)	In an approved child restraint with test mark
+b)	In a baby carrycot on one of the back seats
+c)	On the lap of an adult
+7. (4P) How are you allowed to transport a five-year-old child in your car?
+a)	In a suitable and approved child seat with test mark
+b)	In a back seat with standard three-point safety belt
+c)	On a back sear with waist belt fastened
+8. (4P) How are you allowed to transport an eleven-year-old child of 140 cm(4‘11“) in your car?
+a)	On an approved raised seat with test mark and with three-point safety belt fastened
+b)	With three-point safety belt fastened
+c)	On a back seat with waist belt fastened
+9. (4P) Why it is dangerous not to wear safety belts?
+a)	Because you cannot adequately protect yourself in case of an impact at a speed of 20 km/h
+b)	Because in case of an accident you can be projected out of the vehicle
+c)	Because of the low speed there is no danger in urban traffic
+
+10. (4P) At which impact speed must you reckon with serious or deadly injuries when no safety belt is worn?
+a)	From 30 km/h onward
+b)	From 50 km/h onward
+c)	From 80 km/h onward
+11. (4P) What does this warning sign mean? On a front passenger seat with this sign and operational air bag _________
+ 
+a)	You are not allowed to install a child sear opposite to the direction in which the vehicle is travelling
+b)	You may only install a child seat facing the direction in which the vehicle is travelling
+c)	You must install the child seat as illustrated
+12. (4P) Why is it dangerous if passengers sitting in the rear do not wear their seatbelts? A crash
+a)	Could result in injuries even at low speeds
+b)	Could result in injuries to persons in the front seats
+c)	Could propel these persons from the vehicle
+13. (2P) A safety belt does not roll up automatically. What can be the reason for this?
+a)	Safety belt is twisted
+b)	Automatic retractor is defective
+c)	Seat adjustment is defective
+14. (2P) Are you allowed to transport persons on the loading platform of your truck?
+a)	Yes, if they must carry out necessary work
+b)	Yes, if they have to accompany the load
+c)	Yes, to secure the load
+15. (3P) While you are driving, the airbag control light stays on constantly. What must you do?
+a)	Go to a garage workshop
+b)	Take the vehicle off the road immediately
+c)	Nothing because it is an indication for the garage workshop
+16. (4P) What must you observe if you wish to drive a vehicle with front passenger air bag?
+a)	You may not install a child restraint on the front passenger seat facing backwards
+b)	You may install a child restraint on the front passenger seat facing forwards
+c)	You may install a child restraint on the front passenger seat facing backwards
+17. (4P) You wish to take several small children home after a children’s birthday party. What must you observe when using your car?
+a)	The children must be secured with the prescribed child restraints
+b)	Child restraints need not be used within built-up areas
+c)	It is sufficient to secure the children with the existing safety belts
+----------------------------------------------------------------------------------------------------------------------------------------
+14.5 Goods Transport
+1. (2P) What is the maximum distance a load may project backwards beyond the rear reflectors without a projection marker being necessary ? 1 meter
+2. (3P) You want to transport your holiday luggage on the roof of your fully occupied car. What must you observe?
+a)	The gross vehicle weight rating of my car
+b)	The vehicle manufacturer’S roof load specifications in the operating manual
+c)	The roof load specifications contained in the registeration certificate Part 1
+3. (3P) What do you have to make sure of regarding the load on your vehicle?
+a)	My vehicle may not exceed the gross axle weight rating
+b)	I have to use suitable equipment to prevent the load from shifting
+c)	My vehicle may exceed the gross vehicle weight rating by a maximum of 5%
+4. (3P) How must a load projecting more than 1 m beyond the rear reflectors of the vehicle be marked in darkness?
+a)	By a red light and red rear reflector
+b)	By switching the fog tail lamp on
+c)	By an orange warning light
+5. (4P) What can be the effect of an overload of only 20%?
+a)	Steering may become worse
+b)	The brakes may be overstrained
+c)	There may be too much strain on the load-bearing parts of the vehicle
+6. (4P) What must you ensure before setting off on a journey in your car?
+a)	That the passengers can put on the existing safety belts
+b)	That you have an adequate view to the rear
+c)	That no objects (e.g first aid kit, road atlas, camera) are lying loose on the rear parcel shelf
+7. (3P) What must you bear in mind If you want to carry luggage in the roof of your car?
+a)	The permissible total mass must not be exceeded
+b)	The roadhandling charectristics are adversely affected
+c)	The maximum roof load stipulated by the car manufacturer (owner’s manual) must not be exceeded
+8. (3P) What must you reckon with when transporting luggage on the roof of your car?
+a)	The vehicle inclines more on bends
+b)	The vehicle’S susceptibility to side wind is greater
+c)	The vehicle’s roadhandling is improved on account of the higher centre of gravity
+9. (3P) What must you do when transporting bicycles on the roof of your car?
+a)	Avoid driving at high speed
+b)	Regularly check the fixing devices
+c)	Safely attach holding device and bicycles
+
+10. (3P) What must you check when transporting bicycles on a rear-mounted support system?
+a)	Whether system and bicycles are fixed safely
+b)	Whether lighting equipment or number plate are covered
+c)	Whether according to the manufacturer’s instructions, the system is adequate for the vehicle
+11. (3P) How must a load be marked in darkness or bad visibility when it extends laterraly more than 40 cm beyond the side lights of the vehicle?
+a)	By a red light to the back
+b)	By a white light to the front
+c)	By switching on the hazard warning lights
+12. (3P) What is the maximum height allowed above the roadway for a red light marking a load extending to the back?
+a)	1.5 m
+b)	2.0 m
+c)	2.5 m
+13. (3P) Up to what height is a load not allowed to project over the front of the vehicle ? 
+2.5 meter
+14. (3P) Under what conditions is a load allowed to project over the front of a vehicle? 
+a)	If the load does not project over more than 50 cm and is above a height of 2.50 m
+b)	If the load is marked with a red light
+15. (4P) During a break you find out that one of the lashing straps has torn. What do you do?
+a)	Continue your trip after the lashing strip is replaced
+b)	Continue your trip when the load is secured by other sufficient securing means
+c)	Continue your trip because a slipping load will be caught by the side panels
+16. (4P) Do the requirements for properly securing of loads apply to all small transporters?
+a)	They apply to all small transporters
+b)	They only apply to small transporters with open loading space
+c)	They only apply to small transporters without separation wall to the loading space
+17. (3P) You are entering a public road e.g. from a field or building site and considerably soil the road. Who is reasonable for eliminating this traffic obstruction?
+a)	You, as you have caused it
+b)	The competent road-building authority
+c)	The persons living along this section of the road
+18. (3P) What must you do to avoid endangering others by equipment or load which has fallen off your vehicle? Depending on the situation,
+a)	Remove the parts yourself
+b)	Secure the danger spot and immediately inform the road service or police
+c)	Proceed and inform the nearest municipal office
+
+
+19. (3P) What must you remember when loading a trailer? The load
+a)	Must be securely packed
+b)	Must not project more than 1 m beyond the rear reflectors, unless specially marked
+c)	Must not project more than 1 m beyond the front of the towing vehicle
+20. (3P) What must you be aware of if you want to transport a load? The load
+a)	May not interfere with me
+b)	May not slide even when I brake
+c)	May never project over the front of the vehicle
+21. (3P) From what height it is permitted for load to project up to 50 cm in front of your vehicle? 2.5 m
+22. (3P) What should be noted when loading vehicles?
+a)	Loads more than 2.5 m high may not project forwards by more than 50 cm
+b)	Loads that project beyond the retro-reflectors by more than 1 m, must be labelled
+c)	It is not necessary to secure heavy loads
+23. (3P) What must you be aware of, if you want to transport the load? The load
+a)	Must be secured
+b)	May not cause avoidable noise
+c)	May have individual bars projecting out to the side
+24. (5P) In what sequence may each continue driving?
+   
+   
+a)	The cyclist, me, (the blue bus / tractor / yellow car / red car)
+b)	The cyclist, (the blue bus/ tractor / yellow car / red car), me
+c)	Me, the cyclist, (the blue bus/ tractor / yellow car / red car)
+----------------------------------------------------------------------------------------------------------------------------------------
+14.6 Social Regulations
+1.  (3P) What is the significance of orange warning plates on a vehicle? It is transporting
+a)	Dangerous goods
+b)	Easily perishable food
+c)	cattle
+2. (3P) What can red-white warning plates on vehicles indicate?
+a)	A trailer parked on the roadway within a built-up area
+b)	A vehicle with excessive width
+c)	A vehicle transporting dangerous goods
+3. (2P) What do white plates with a black “A” on a truck mean? The truck
+a)	Is transporting waste materials
+b)	Is transporting dangerous goods
+c)	Is driven by a beginner
+----------------------------------------------------------------------------------------------------------------------------------------
