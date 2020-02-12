@@ -145,8 +145,8 @@ a) More space is needed when turning and driving round bends
 b) Acceleration capacity is reduced
 
 --------------------------------------------------------------------------------------------------------------------------------------
-
-14.4 Passenger Transport
+						14.4 Passenger Transport
+--------------------------------------------------------------------------------------------------------------------------------------
 1. (4P) A car is equipped with two front air bags. On which seats must safety belts be worn?
 a)	On all seats
 b)	Not on the front seats
@@ -215,8 +215,10 @@ c)	You may install a child restraint on the front passenger seat facing backward
 a)	The children must be secured with the prescribed child restraints
 b)	Child restraints need not be used within built-up areas
 c)	It is sufficient to secure the children with the existing safety belts
+
 ----------------------------------------------------------------------------------------------------------------------------------------
-14.5 Goods Transport
+							14.5 Goods Transport
+----------------------------------------------------------------------------------------------------------------------------------------
 1. (2P) What is the maximum distance a load may project backwards beyond the rear reflectors without a projection marker being necessary ? 1 meter
 2. (3P) You want to transport your holiday luggage on the roof of your fully occupied car. What must you observe?
 a)	The gross vehicle weight rating of my car
@@ -285,7 +287,6 @@ a)	Remove the parts yourself
 b)	Secure the danger spot and immediately inform the road service or police
 c)	Proceed and inform the nearest municipal office
 
-
 19. (3P) What must you remember when loading a trailer? The load
 a)	Must be securely packed
 b)	Must not project more than 1 m beyond the rear reflectors, unless specially marked
@@ -303,14 +304,14 @@ c)	It is not necessary to secure heavy loads
 a)	Must be secured
 b)	May not cause avoidable noise
 c)	May have individual bars projecting out to the side
+
 24. (5P) In what sequence may each continue driving?
-   
-   
 a)	The cyclist, me, (the blue bus / tractor / yellow car / red car)
 b)	The cyclist, (the blue bus/ tractor / yellow car / red car), me
 c)	Me, the cyclist, (the blue bus/ tractor / yellow car / red car)
 ----------------------------------------------------------------------------------------------------------------------------------------
-14.6 Social Regulations
+						14.6 Social Regulations
+----------------------------------------------------------------------------------------------------------------------------------------
 1.  (3P) What is the significance of orange warning plates on a vehicle? It is transporting
 a)	Dangerous goods
 b)	Easily perishable food
