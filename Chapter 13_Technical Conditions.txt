@@ -234,93 +234,128 @@ a)	A bulb is defective
 36. (4P) The steering wheel is harder to turn than usual. What can cause this?
 a)	Defective steering gear
 b)	Servo-steering is not working
-c)	Tyre pressure is too high
+
+
 37. (3P) The brakes on your car are pulling strongly to one side. What effects can this have when you are braking?
 a)	Longer braking distance
 b)	Your car can veer to the side
-c)	Anti-lock braking system (ABS) fails
+
+
+
 38. (5P) When you press on the brake pedal, it touches the floor. Only when you press on it several times does the pedal travel become shorter. What must you do?
 a)	Park the car immediately
 b)	Have the brakes repaired
-c)	It is sufficient to fill up the brake fluid
+
+
+
 39. (4P) The brake lights do not function. What do you do?
 a)	Repair them immediately
-b)	Renew the brake fluid
+
+
+
 40. (2P) How can you tell while driving that an indicator lamp is not working?
 a)	The indicator signal light will flash faster than usual
-b)	You cannot detect a defective indicator lamp while driving
+
+
+
 41. (2P) The glass in your left outside mirror is broken. What do you do?
 a)	Renew the mirror glass
-b)	Do not renew the mirror glass because you can still partly see to the rear
+
+
+
 42. (2P) The windscreen washer does not work. What can be the reason for this?
 a)	Blocked jets
 b)	Defective fuse
 c)	No water in the reservoir
+
+
 43. (2P) Too little water is coming out of the windscreen washer jets. What can cause this?
 a)	Defective washer pump
 b)	Jets are partly blocked
-c)	Too much water in the reservoir
+
+
 44. (2P) The windscreen wipers do not wipe clean? What can be the reason for this?
 a)	There is an oil Film on the windscreen
 b)	The windscreen wiper blades are worn
-c)	The windscreen heating is defective
+
+
 45. (2P) The windscreen wipers on your car do not function. What can the cause of this?
 a)	Blown fuse
 b)	Windscreen wiper motor defective
-c)	Too much water in the windscreen washer
+
+
 46. (3P) Your car’s steering wheel wobbles while you are driving. What can be the reason?
 a)	Wheels are unbalanced
 b)	Wheel suspension-spring is damaged
 c)	Shock absorbers are defective
+
+
 47. (3P) What can be the reason for a tyre on front axle wearing on one side more than the other?
 a)	Track alignment not in order
 b)	Steering axle is bent
+
+
 48. (3P) What can cause excessive wear on tyres?
 a)	Incorrect tyre pressure
 b)	Damage to the wheel suspension-spring
-c)	Mounting a front spoiler
+
+
+
 49. (3P) Whilst driving your vehicle pulls to the right. What can be the reason for this?
 a)	Steering axle bent
 b)	Wheel alignment not in order
-c)	Loose steering shock absorber
+
+
 50. (3P) What is caused by driving with winter tyres during the summer months? It increases
 a)	tyre wear
 b)	fuel consumption
-c)	driving stability
+
+
 51. (3P) How can you minimise tyre wear?
 a)	I regularly check the tyre inflation pressure
 b)	I refrain as much as possible from rapid acceleration
-c)	I use winter tyres all year round
+
+
+
 52. (3P) When braking, you note that your vehicle pulls to the right. What should you do?
 a)	I go to a car workshop
-b)	I oil the brake pads
-c)	I do not need to fix the problem, as long as I can compensate by counter steering
-53. (3P) What is the permissible minimum tread depth of the main tread of all your vehicle’s tyres? 1.6 mm
+
+
+
+53. (3P) What is the permissible minimum tread depth of the main tread of all your vehicle’s tyres? 
+			1.6 mm
 
 54. (3P) What are the possible consequences if the wheel nuts are not re-tightened following a tyre change?
 a)	The wheel may become damaged
 b)	The wheel can become detached from the vehicle
-c)	The tyre  can become detached from the hub
+
+
 55. (3P) Your vehicle is snowed under. What do you have to do before you drive off? I have to 
 a)	remove ice and snow from the windows
 b)	remove ice and snow from the mirrors
 c)	remove ice and snow from the roof of the vehicle
+
+
 56. (3P) Your vehicle is snowed under. What do you have to do before you drive off? I have to
 a)	remove ice and snow from the lighting systems including during daytime
 b)	remove ice and snow from the windows and mirrors
-c)	allow the engine to warm up
+
+
+
 57. (3P) What does the red symbol on the tyre indicate? 
  
 This tyre
 a)	is suitable for wintry weather conditions
 b)	also assists driving performance in snowy conditions
-c)	may only be used in combination with snow chains
+
+
+
 58. (2P) What is the meaning of the date of manufacture “1217” specified on the tyre? 
  
 The tyre was
 a)	manufactured in 12th calendar week of the year 2017
-b)	manufactured in the 12th month of the year 2017
-c)	manufactured on the 1/2/2017
+
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 
